@@ -4,7 +4,7 @@
 
 Gem::Specification.new do |s|
   s.name = "pg".freeze
-  s.version = "1.3.0.pre20210319181010"
+  s.version = "0.22.0"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1".freeze) if s.respond_to? :required_rubygems_version=
   s.metadata = { "changelog_uri" => "https://github.com/ged/ruby-pg/blob/master/History.rdoc", "documentation_uri" => "http://deveiate.org/code/pg", "homepage_uri" => "https://github.com/ged/ruby-pg" } if s.respond_to? :metadata=
